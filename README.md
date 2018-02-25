@@ -9,8 +9,8 @@ Onaple Server est un jeu multijoueur accès RP se basant sur Minecraft 1.12.2. I
 
 # Contribuer au projet
 
-Les principales informations pouvant vous intéresser si vous êtes contributeur ou souhaitez le devenir sont disponibles sur [le guide du contributeur](Le-guide-du-contributeur).
+Les principales informations pouvant vous intéresser si vous êtes contributeur ou souhaitez le devenir sont disponibles sur [le guide du contributeur](Le-guide-du-contributeur.md).
 
 # Fonctionnalités
 
-[Voir la liste des fonctionnalités visées à court terme](Fonctionnalit%C3%A9s).
+[Voir la liste des fonctionnalités visées à court terme](Fonctionnalites.md).
