@@ -45,5 +45,5 @@ Le plugin Storyteller gère les interactions avec les NPC donneurs de quêtes.
 * Afficher une interface de livre avec un contenu prédéfini lors de l'interaction avec un NPC :heavy_check_mark:
 * Y implémenter des boutons effectuant des actions telles que ouvrir un autre dialogue ou se téléporter :heavy_check_mark:
 * Stocker les dialogues et leurs caractéristiques dans un fichier de configuration :heavy_check_mark:
-* Stocker la progression des quêtes dans une base de données SQLite :x:
+* Stocker la progression des quêtes dans une base de données SQLite :heavy_check_mark:
 * Utiliser la progression en tant que condition et qu'action des dialogues :x:
