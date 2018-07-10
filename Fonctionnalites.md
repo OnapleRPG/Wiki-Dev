@@ -47,3 +47,22 @@ Le plugin Storyteller gère les interactions avec les NPC donneurs de quêtes.
 * Stocker les dialogues et leurs caractéristiques dans un fichier de configuration :heavy_check_mark:
 * Stocker la progression des quêtes dans une base de données SQLite :heavy_check_mark:
 * Utiliser la progression en tant que condition et qu'action des dialogues :heavy_check_mark:
+
+## Deuxième itération
+Ci-dessous les objectifs de la seconde itération de développement.
+
+### CrowdBinding
+Le plugin CrowdBinding aggrémente le serveur de fonctions sociales en tout genre.
+
+* Permettre aux joueurs de créer un groupe en invitant un autre joueur :x:
+* Afficher si possible les joueurs d'un groupe dans le scoreboard :x:
+* Ajouter des commandes de gestion de groupe (quitter, exclure, coordonnées, ...) :x:
+* Permettre les messages de groupe :x:
+* Gérer la persistance des groupes ? (déco-reco) :x:
+
+### EpicBoundaries
+Le plugin EpicBoundaries se charge des intéractions avec le monde tels que la génération d'instance et l'utilisation de clés
+
+* Etudier la possibilité d'ouvrir une porte / un coffre pour un unique joueur :x:
+* Gérer un système de clés qui permet d'ouvrir des portes pour un joueur uniquement :x:
+* Etudier la possibilité de gérer les instances :x:
