@@ -65,4 +65,4 @@ Le plugin EpicBoundaries se charge des intéractions avec le monde tels que la g
 
 * Etudier la possibilité d'ouvrir une porte / un coffre pour un unique joueur :x:
 * Gérer un système de clés qui permet d'ouvrir des portes pour un joueur uniquement :x:
-* Etudier la possibilité de gérer les instances :x:
+* Etudier la possibilité de gérer les instances :heavy_check_mark: (note : doit être testé en conditions de recette)
