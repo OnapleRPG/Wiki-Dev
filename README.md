@@ -1,16 +1,18 @@
 # Wiki-Dev
-Ceci est le Wiki d'Onaple destiné aux développeurs.
+This is the Onaple wiki for the developers.  
 
-Onaple Server est un jeu multijoueur accès RP se basant sur Minecraft 1.12.2. Il repose sur 4 axes principaux qui reprennent les concepts de Minecraft : 
-* la récolte de ressources
-* le craft d'objets et d’équipements
-* le combat contres des monstres de plus en plus fort
-* la découverte de l'univers d'un monde fantastique
+Onaple is a set of Minecraft Sponge plugins that aim to create an online RPG experience for the player.  
+Some of the features it gathers are :  
+* Resource harvesting
+* Item crafting and generation
+* Monster spawning
 
-# Contribuer au projet
+# Contributing
 
-Les principales informations pouvant vous intéresser si vous êtes contributeur ou souhaitez le devenir sont disponibles sur [le guide du contributeur](Le-guide-du-contributeur.md).
+The main info you might want to know if you're willing to contribute to our project are available in the contributing guide. 
 
-# Fonctionnalités
 
-[Voir la liste des fonctionnalités visées à court terme](Fonctionnalites.md).
+# Features
+
+See the feature list, featuring the current and upcoming Onaple plug-in features. 
+
