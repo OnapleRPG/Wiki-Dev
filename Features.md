@@ -1,5 +1,7 @@
 # Features
 
+The following features are the one that were planned to begin with for the Onaple project. Some of those might be stopped for now, but we might work on those again if someone express interest towards these.  
+
 ## Itemizer
 
 Itemizer is a plug-in that enables admins and developers to generate items given multiple parameters. 
