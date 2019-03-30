@@ -9,10 +9,10 @@ Some of the features it gathers are :
 
 # Contributing
 
-The main info you might want to know if you're willing to contribute to our project are available in the [https://github.com/OnapleRPG/Wiki-Dev/blob/master/Contributing.md](contributing guide) . 
+The main info you might want to know if you're willing to contribute to our project are available in the [contributing guide](https://github.com/OnapleRPG/Wiki-Dev/blob/master/Contributing.md) . 
 
 
 # Features
 
-See the [https://github.com/OnapleRPG/Wiki-Dev/blob/master/Features.md](Feature list) , featuring the current and upcoming Onaple plug-in features. 
+See the [Feature list](https://github.com/OnapleRPG/Wiki-Dev/blob/master/Features.md) , featuring the current and upcoming Onaple plug-in features. 
 
