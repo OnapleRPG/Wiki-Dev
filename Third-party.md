@@ -1,4 +1,3 @@
-https://github.com/github/linguist/blob/master/vendor/README.md
 # Itemizer thrid party
 ## Introduction
 Itemizer implement a third-party system that allow more item customisation.
