@@ -1,14 +1,17 @@
 # Itemizer thrid party
 ## Introduction
-Itemizer implement a third-party system that allow more item customisation.
-third-party can set data in the item config file and Itemizer will add these to the item nbt data.
-## How to Do
-follow the steps
-* Create a `class` who implement `com.onaple.itemizer.data.beans.ItemNbtFactory`  
-* Create a `DataManipulator`  
+__Itemizer__ only support Minecraft vanilla feature whereas it implement a third-party system that allow more item customisation. Third-party can build items with more __components__ and __behaviours__. Itemizer will compile all thrid-party data and set it in item [NBT](https://minecraft.gamepedia.com/Tutorials/Command_NBT_tags).
+## How to
+First, you need to create a _sponge plugin_ with a dependency to __Itemizer__.
+* Create a`DataManipulator` who can apply your data to the item.
+* Create a `class` who implement `com.onaple.itemizer.data.beans.ItemNbtFactory`
+* In there you can set attributes and the mapping for the serialization
 * Change Configuration 
 
+> If you want to learn more about DataManipulator follow the sponge [docs](https://docs.spongepowered.org/stable/en/plugin/data/index.html).
+
 ### Item Nbt factory
+The ItemNbtFactory interface contains all methods you need to implement to create your addon.
 ```Java
 public class EffectFactory implements ItemNbtFactory { 
 
@@ -29,7 +32,7 @@ public class EffectFactory implements ItemNbtFactory {
 2. Get data from configuration
 3. Override method `getKey()` with the sponge key
 4. Override method `constructDataManipulator()` with your datamanipulator  
-> If you want to learn more about DataManipulator follow the sponge [docs](https://docs.spongepowered.org/stable/en/plugin/data/index.html).
+
 
 ### Configuration
 
