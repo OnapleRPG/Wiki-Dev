@@ -50,3 +50,10 @@ nbt=[
 2. in the `__class__` node indicate the path to your factory class.
 3. put your data 
 
+## Ideas of Third-party
+* Random affixes
+* Hit apply effect
+* Kill counter (Like Strange Item in TF2)
+* food effects
+* Crit chance and multiplier
+* Elementary Damage/Protection
