@@ -4,6 +4,7 @@ __Itemizer__ only support Minecraft vanilla feature whereas it implement a third
 ## How to
 First, you need to create a _sponge plugin_ with a dependency to __Itemizer__.
 * Create a`DataManipulator` who can apply your data to the item.
+* Register it in you plugin main class, at least in the `GameConstructionEvent`.
 * Create a `class` who implement `com.onaple.itemizer.data.beans.ItemNbtFactory`
 * In there you can set attributes and the mapping for the serialization
 * Change Configuration 
